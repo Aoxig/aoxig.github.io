@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>links</title>
+    <url>/others/links.html</url>
+    <content><![CDATA[<h1 id="github"><a href="#github" class="headerlink" title="github"></a>github</h1><p><a href="https://github.com/frank-lam/fullstack-tutorial/" target="_blank" rel="noopener">fullstack tutorial 2020</a></p>
+<a id="more"></a>
+<p><a href="https://github.com/danistefanovic/build-your-own-x/" target="_blank" rel="noopener">Build your own (insert technology here)</a><br><a href="https://github.com/resumejob/free-project-course/" target="_blank" rel="noopener">整理和搜集网络免费的项目实战课程</a></p>
+<h1 id="interview"><a href="#interview" class="headerlink" title="interview"></a>interview</h1><p><a href="https://hit-alibaba.github.io/interview/index.html" target="_blank" rel="noopener">笔试面试知识整理</a><br><a href="https://lucifer.ren/fe-interview/#/" target="_blank" rel="noopener">大前端面试宝典</a></p>
+<h1 id="Spring-related"><a href="#Spring-related" class="headerlink" title="Spring related"></a>Spring related</h1><p><a href="http://www.ityouknow.com/spring-boot.html" target="_blank" rel="noopener">纯洁的微笑Springboot</a></p>
+<h1 id="LeetCode"><a href="#LeetCode" class="headerlink" title="LeetCode"></a>LeetCode</h1><p><a href="https://github.com/azl397985856/leetcode" target="_blank" rel="noopener">LeetCode Solutions: A Record of My Problem Solving Journey</a><br><a href="https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions" target="_blank" rel="noopener">Blind 75 LeetCode Questions
+</a></p>
+]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>github</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>好的婚姻，要守护财产和爱</title>
     <url>/reading-notes/good_marriage.html</url>
     <content><![CDATA[<p><a href="https://book.douban.com/subject/34905537/" target="_blank" rel="noopener">好的婚姻，要守护财产和爱（吴杰臻律师重磅力作！）</a></p>
