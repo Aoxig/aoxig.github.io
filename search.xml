@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>QA数据库设计</title>
+    <url>/Java/QAdatabasedesign.html</url>
+    <content><![CDATA[<p>要做的是一个类似百度知道的校园问答小程序</p>
+<p><a href="https://www.notion.so/9feab259a4db4566a12dc696009ddcf3" target="_blank" rel="noopener">数据库QA</a></p>
+<p><a href="https://www.notion.so/beefe065b8744f29a41e354459e1e831" target="_blank" rel="noopener">user</a></p>
+<p><a href="https://www.notion.so/083f6ff0aade49f68443d83a756d77cb" target="_blank" rel="noopener">admin</a></p>
+<p><a href="https://www.notion.so/64a77ecdb1a04a41acd77b56a41affb0" target="_blank" rel="noopener">admin_role</a></p>
+<p><a href="https://www.notion.so/e16f2ae7b75b477a89fb7b024d2ee437" target="_blank" rel="noopener">question</a></p>
+<p><a href="https://www.notion.so/a6149255282542f8bb52434c3eae3c05" target="_blank" rel="noopener">answer</a></p>
+<p><a href="https://www.notion.so/84446d4773ee4c119f5a4f402de978f2" target="_blank" rel="noopener">message</a></p>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>数据库</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>六大设计原则</title>
     <url>/reading-notes/six_design_principle.html</url>
     <content><![CDATA[<h2 id="单一职责原则"><a href="#单一职责原则" class="headerlink" title="单一职责原则"></a>单一职责原则</h2><p>定义：应该有且仅有一个原因引起类的变更（There should never be more than one reason for a class to change.）</p>
@@ -187,25 +206,6 @@ public class Driver implements IDriver{
       </categories>
       <tags>
         <tag>法律</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>QA数据库设计</title>
-    <url>/Java/good_marriage.html</url>
-    <content><![CDATA[<p>要做的是一个类似百度知道的校园问答小程序</p>
-<p><a href="https://www.notion.so/9feab259a4db4566a12dc696009ddcf3" target="_blank" rel="noopener">数据库QA</a></p>
-<p><a href="https://www.notion.so/beefe065b8744f29a41e354459e1e831" target="_blank" rel="noopener">user</a></p>
-<p><a href="https://www.notion.so/083f6ff0aade49f68443d83a756d77cb" target="_blank" rel="noopener">admin</a></p>
-<p><a href="https://www.notion.so/64a77ecdb1a04a41acd77b56a41affb0" target="_blank" rel="noopener">admin_role</a></p>
-<p><a href="https://www.notion.so/e16f2ae7b75b477a89fb7b024d2ee437" target="_blank" rel="noopener">question</a></p>
-<p><a href="https://www.notion.so/a6149255282542f8bb52434c3eae3c05" target="_blank" rel="noopener">answer</a></p>
-<p><a href="https://www.notion.so/84446d4773ee4c119f5a4f402de978f2" target="_blank" rel="noopener">message</a></p>
-]]></content>
-      <categories>
-        <category>Java</category>
-      </categories>
-      <tags>
-        <tag>数据库</tag>
       </tags>
   </entry>
 </search>
